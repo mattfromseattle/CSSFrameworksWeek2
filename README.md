@@ -1,21 +1,17 @@
-# Development-Environment-Setup-Week-1
+# CSSFrameworksWeek2
 
 Basic Requirements
-- Establish a development environment you can use throughout the quarter to build your webapp. - ✓
-- Create a new Git repository on Github and clone it to your new development environment. - ✓
-- Bootstrap a new basic webapp project in your new development environment. - ✓
-- Make some simple changes to alter the generic text provided to be personalized. (Add your name to the file, experiment with the styles, or some other change to indicate you can make changes.) - ✓
-- Commit your work and push to Github. - ✓
-- Call attention to what changes were made in your assignment submission. - ✓
-    - Updated text to reflect "Hello WATS4000!"
-    - Updated styling of text
-    - Removed extra links and text from boilerplate
-    - Updated 'About' to link to personal webpage
-    - Updated 'Contact' to open new email message with subject line
+To successfully complete this assignment, fulfill the following goals:
+
+- Use a "main.scss" (or equiv.) file and proper "@import" statements to add stylesheets. - ✓
+- Use proper hierarchy. - ✓
+- Add color definitions and/or other constant values for customization using variables. - ✓
+- Add at least one mixin to handle a common repetitive style definition (experimental features, branded styles, themes, etc.). - ✓
 
 Stretch Goals
-- Experiment with changes to styles. - ✓
-- Add an image to the page that was generated.
-- Add some custom Javascript in the appropriate file.
+If you prefer an additional challenge, attempt the following goals:
+
+- Create a theme structure: Add a class to the body element of your document, then use hierarchy, variables, and mixins to allow you to change the look of the whole page by changing the class on the body element. (Extra stretch: Create a little JS connected to a select element to allow the user to conveniently switch between themes.)
+- Make an animation mixin: Make a mixin that you can use to animate any other style you wish.
 
 Refer to the rubric below to see which skills and concepts (Learning Outcomes) are being assessed in each assignment, and make efforts to demonstrate your mastery of the Learning Outcomes to the best of your abilities.  
